@@ -18,10 +18,6 @@ SCHOOLS <- list(
   "Army"      = list(slug = "army")
 )
 
-# ── paste in your fetch_247, try_node, SELECTORS,
-#    scrape_offers, and parse_location functions here ──────────
-source("app.R", local = TRUE)   # loads all helpers without launching Shiny
-
 save_cache <- function(df) {
   write.csv(df, CACHE_FILE, row.names = FALSE)
   writeLines(format(Sys.time(), "%b %d, %Y %I:%M %p"), STAMP_FILE)
