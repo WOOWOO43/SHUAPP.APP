@@ -1,49 +1,7 @@
 "School","Name","Pos","HS","City","State","Ht/Wt","Stars","Score","Committed"
-"UC Davis","Niles Davis","RB","Westlake","Westlake Village","CA","5-10 / 175",3,87,"California"
-"UC Davis","Coby Herman","RB","La Costa Canyon","Encinitas","CA","5-10 / 188",NA,NA,"UC Davis"
-"UC Davis","Christian Davis","WR","Bishop Montgomery","Torrance","CA","5-11 / 191",3,84,NA
-"UC Davis","Maxwell Young","WR","Western","Anaheim","CA","6-0 / 182",3,83,"Fresno State"
-"UC Davis","Daishaun Davis","WR","San Jacinto","San Jacinto","CA","5-10 / 153",3,83,"San Diego State"
-"UC Davis","Chaz Gilbreath","WR","Mayfair","Lakewood","CA","6-0 / 180",3,83,"UC Davis"
-"UC Davis","Jackson Fay","WR","East Union","Manteca","CA","5-10 / 175",3,82,"UC Davis"
-"UC Davis","Nikolas Blocker","WR","Victor Valley","Victorville","CA","5-8 / 160",3,80,"UC Davis"
-"UC Davis","Koen Parnell","WR","Mater Dei","Santa Ana","CA","6-2 / 195",NA,NA,"UC Davis"
-"UC Davis","Robert Beverly","OT","Carmel","Carmel","CA","6-8 / 290",3,81,"UC Davis"
-"UC Davis","Anthony Rodriguez","OT","Long Beach Poly","Long Beach","CA","6-5 / 285",NA,NA,"UC Davis"
-"UC Davis","Lucas Winkler","OT","Rancho Bernardo","San Diego","CA","6-5 / 250",NA,NA,"UC Davis"
-"UC Davis","Cooper Javorsky","IOL","San Juan Hills","San Juan Capistrano","CA","6-4 / 280",3,87,"UCLA"
-"UC Davis","Carson Bahruth","IOL","Bonita","La Verne","CA","6-3 / 290",3,81,NA
-"UC Davis","Mikhal Johnson","Edge","Sierra Canyon","Chatsworth","CA","6-2 / 250",3,86,"Harvard"
-"UC Davis","Auma Jennings","DL","Orange Lutheran","Orange","CA","5-11 / 305",3,83,"San Jose State"
-"UC Davis","Zachary Kleppin","LB","Archbishop Riordan","San Francisco","CA","6-2 / 210",NA,NA,NA
-"UC Davis","Ernest Nunley","CB","Western","Anaheim","CA","6-0 / 180",3,87,"Michigan"
-"UC Davis","Donovan Dunmore","CB","Buchanan","Clovis","CA","6-0 / 185",3,87,"Wisconsin"
-"UC Davis","Nsongbeh Ginyui","S","Bakersfield College","Bakersfield","CA","6-1 / 195",3,84,"Arkansas"
-"UC Davis","Rahmeer Henderson","S","Colony","Ontario","CA","6-3 / 180",3,82,"San Diego State"
-"UC Davis","Xander Chisolm","S","Fullerton College","Fullerton","CA","6-3 / 185",3,82,"Oregon State"
-"UC Davis","Jeremiah G Brown","S","San Jacinto","San Jacinto","CA","5-9 / 165",NA,NA,"UC Davis"
-"UC Davis","Jameson Powell","ATH","Folsom","Folsom","CA","5-11 / 170",3,88,"Oregon State"
-"UC Davis","Marcus McGeilberry","ATH","Aquinas","San Bernardino","CA","6-2 / 160",3,84,"UC Davis"
-"UC Davis","Rickey Johnson","ATH","Independence","Bakersfield","CA","6-0 / 205",3,84,"UC Davis"
-"UC Davis","Demetrius Simon","ATH","McLane","Fresno","CA","6-1 / 170",3,83,"Cal Poly"
-"UC Davis","Landon Schrom","ATH","Army And Navy Academy","Carlsbad","CA","6-2 / 214",3,83,"Idaho"
-"UC Davis","Jarred Geissberger","ATH","Marin Catholic","Kentfield","CA","6-2 / 200",3,81,"Cal Poly"
-"Air Force","Liam Meeker","QB","Mira Costa","Manhattan Beach","CA","6-2 / 205",3,82,"Sacramento State"
-"Air Force","Deuce Jefferson","QB","Long Beach Poly","Long Beach","CA","6-0 / 170",3,81,"Navy"
-"Air Force","Justin Lewis","RB","Mater Dei","Santa Ana","CA","5-10 / 195",3,84,"UMass"
-"Air Force","Davonte Curtis","RB","Mission Viejo","Mission Viejo","CA","5-9 / 195",3,81,NA
-"Air Force","Lazaro Faraj-Washington","RB","Archbishop Mitty","San Jose","CA","5-10 / 195",NA,NA,NA
-"Air Force","Isaiah Williams","WR","Folsom","Folsom","CA","6-0 / 170",3,83,"Nevada"
-"Air Force","Jarod Sersansie","WR","JSerra Catholic","San Juan Capistrano","CA","6-3 / 205",3,83,"Columbia"
-"Air Force","Josiah Andrews","WR","Rocklin","Rocklin","CA","6-1 / 175",3,82,"Northern Arizona"
-"Air Force","Tyler George","WR","Corona Centennial","Corona","CA","5-11.5 / 175",3,80,NA
-"Air Force","Koen Parnell","WR","Mater Dei","Santa Ana","CA","6-2 / 195",NA,NA,"UC Davis"
-"Air Force","Timothy Ural","WR","Tamalpais","Mill Valley","CA","6-2 / 180",NA,NA,NA
-"Air Force","Zui Shelton","WR","St. Ignatius College Preparatory","San Francisco","CA","5-9 / 165",NA,NA,"Portland State"
-"Air Force","Tyler Caldwell","WR","Vista Murrieta","Murrieta","CA","6-5 / 185",NA,NA,"Cal Poly"
-"Army","Liam Meeker","QB","Mira Costa","Manhattan Beach","CA","6-2 / 205",3,82,"Sacramento State"
-"Army","Justin Lewis","RB","Mater Dei","Santa Ana","CA","5-10 / 195",3,84,"UMass"
-"Army","Major Pride","WR","Bishop Montgomery","Torrance","CA","6-3 / 180",3,85,"UCLA"
-"Army","Quinn Martinez","WR","Manteca","Manteca","CA","5-11 / 170",3,83,NA
-"Army","Koen Parnell","WR","Mater Dei","Santa Ana","CA","6-2 / 195",NA,NA,"UC Davis"
-"Army","Kymani Nua","WR","Oceanside","Oceanside","CA","6-3 / 175",NA,NA,"Army"
+"UC Davis","Brody Rudnicki","QB","Folsom","Folsom","CA","6-1 / 205",3,84,NA
+"UC Davis","Eli Dukes","RB","Palma","Salinas","CA","5-10 / 165",NA,NA,NA
+"UC Davis","Luke Karby","TE","Mission Viejo","Mission Viejo","CA","6-4 / 210",NA,NA,NA
+"UC Davis","Dylan Modena","Edge","Junipero Serra","San Mateo","CA","6-3 / 220",3,85,NA
+"Air Force","Luke Karby","TE","Mission Viejo","Mission Viejo","CA","6-4 / 210",NA,NA,NA
+"Air Force","George Tyus","OT","Antioch","Antioch","CA","6-6 / 280",NA,NA,NA
