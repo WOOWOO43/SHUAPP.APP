@@ -22,7 +22,7 @@ SCHOOLS <- list(
   "Army"       = list(slug = "army",       color = "#1C3F26", accent = "#B5A165")
 )
 
-SEASON <- 2026
+SEASON <- 2027
 
 # ── CSS selector candidates (tried in order) ─────────────────
 # Last verified against live page: 2026 season
