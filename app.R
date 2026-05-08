@@ -14,6 +14,7 @@ library(rvest)
 library(dplyr)
 library(DT)
 library(stringr)
+source("scraper_functions.R")
 
 # ── school config ────────────────────────────────────────────
 SCHOOLS <- list(

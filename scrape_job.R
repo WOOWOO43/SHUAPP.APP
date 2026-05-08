@@ -1,30 +1,9 @@
 # ── scrape_job.R ─────────────────────────────────────────────
 # Called by GitHub Actions. No Shiny dependency.
-# Scrapes all three schools, filters CA, saves cache CSV.
 # ─────────────────────────────────────────────────────────────
 
-library(httr)
-library(rvest)
-library(dplyr)
-library(stringr)
+source("scraper_functions.R")
 
-SEASON     <- 2026
-CACHE_FILE <- "ca_offers_cache.csv"
-STAMP_FILE <- "ca_offers_cache_timestamp.txt"
-
-SCHOOLS <- list(
-  "UC Davis"  = list(slug = "uc-davis"),
-  "Air Force" = list(slug = "air-force"),
-  "Army"      = list(slug = "army")
-)
-
-save_cache <- function(df) {
-  write.csv(df, CACHE_FILE, row.names = FALSE)
-  writeLines(format(Sys.time(), "%b %d, %Y %I:%M %p"), STAMP_FILE)
-  message("Cache saved: ", nrow(df), " CA prospects")
-}
-
-# ── run ───────────────────────────────────────────────────────
 all_ca <- NULL
 
 for (nm in names(SCHOOLS)) {
