@@ -2,8 +2,8 @@ name: Scrape 247sports Offers
 
 on:
   schedule:
-    - cron: '0 13 * * *'   # 6am PST daily
-  workflow_dispatch:        # lets you trigger manually from GitHub
+    - cron: '0 13 * * *'
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -18,10 +18,11 @@ jobs:
         with:
           r-version: '4.3'
 
-    - name: Install packages
+      - name: Install packages
         run: |
           install.packages(c("httr", "rvest", "dplyr", "stringr", "shiny", "DT"))
         shell: Rscript {0}
+
       - name: Run scrape
         run: Rscript scrape_job.R
 
