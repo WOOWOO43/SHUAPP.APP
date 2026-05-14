@@ -103,7 +103,7 @@
 "SDSU","Amaziah Siale","OT","Mission Viejo","Mission Viejo","CA","6-6 / 330",3,88,NA
 "SDSU","Lucas Rhoa","OT","Orange Lutheran","Orange","CA","6-5 / 305",3,88,NA
 "SDSU","Derek Gonzalez","OT","Nogales","La Puente","CA","6-6 / 280",3,87,"Kansas"
-"SDSU","Jackson Hill","OT","Chaminade","West Hills","CA","6-5 / 280",3,84,"UCLA"
+"SDSU","Jackson Hill","OT","Chaminade","West Hills","CA","6-5 / 280",3,84,"Notre Dame"
 "SDSU","Deshawn Streeter","OT","Antioch","Antioch","CA","6-6 / 307",3,82,NA
 "SDSU","George Tyus","OT","Antioch","Antioch","CA","6-6 / 280",NA,NA,NA
 "SDSU","Braydenn Mercer","OT","Sierra Canyon","Chatsworth","CA","6-5 / 285",NA,NA,NA
@@ -185,7 +185,7 @@
 "SDSU","Blaise Burwell","ATH","Edison","Huntington Beach","CA","6-1 / 170",3,87,NA
 "SDSU","Carter Williams","ATH","Folsom","Folsom","CA","6-3 / 205",3,86,NA
 "SDSU","Jaiden Flores","ATH","The King's Academy","Sunnyvale","CA","6-4 / 215",3,86,NA
-"SDSU","EJ Coleman","ATH","Folsom","Folsom","CA","6-0 / 195",3,86,NA
+"SDSU","EJ Coleman","ATH","Folsom","Folsom","CA","6-0 / 195",3,86,"Washington State"
 "SDSU","Jamie Spurgeon","ATH","Minarets","North Fork","CA","6-4 / 205",3,85,NA
 "SDSU","Jaxson Rex","ATH","San Clemente","San Clemente","CA","6-1 / 190",3,85,NA
 "SDSU","Lamont McDonald","ATH","Hayward","Hayward","CA","6-0 / 160",3,84,NA
@@ -194,14 +194,14 @@
 "SDSU","Elijah Williams","ATH","Chaminade","West Hills","CA","6-1 / 182",3,83,NA
 "SDSU","Jackson Batch","ATH","Cesar Chavez","Stockton","CA","6-3 / 180",3,83,"Oregon State"
 "SDSU","Antonio Johnson","ATH","Destiny Christian Academy","Sacramento","CA","6-1 / 180",NA,NA,NA
+"SDSU","Deandre Kirkpatrick","ATH","Crenshaw","Los Angeles","CA","6-3 / 220",NA,NA,NA
+"SDSU","Prince Parham","ATH","Sacred Heart Cathedral Prep","San Francisco","CA","6-0 / 170",NA,NA,NA
 "SDSU","Daniel Eagleton","ATH","Folsom","Folsom","CA","6-3 / 175",NA,NA,NA
 "SDSU","Jayden Harris","ATH","Manteca","Manteca","CA","6-1 / 165",NA,NA,NA
 "SDSU","Jayson Williams","ATH","Grant Union","Sacramento","CA","6-0 / 180",NA,NA,NA
-"SDSU","Deandre Kirkpatrick","ATH","Crenshaw","Los Angeles","CA","6-3 / 220",NA,NA,NA
 "SDSU","Andre Mclees Walker","ATH","San Diego Lincoln","San Diego","CA","6-1 / 170",NA,NA,NA
 "SDSU","Trace Murchison","ATH","Woodcreek","Roseville","CA","6-0 / 160",NA,NA,NA
 "SDSU","Adrian Barnett","ATH","The King's Academy","Sunnyvale","CA","6-4 / 195",NA,NA,NA
-"SDSU","Prince Parham","ATH","Sacred Heart Cathedral Prep","San Francisco","CA","6-0 / 170",NA,NA,NA
 "SDSU","Jeremiah Salvant","ATH","Tustin","Tustin","CA","6-0 / 180",NA,NA,NA
 "Cal","Brady Edmunds","QB","Huntington Beach","Huntington Beach","CA","6-5 / 220",4,90,"Ohio State"
 "Cal","Dane Weber","QB","Chaparral","Temecula","CA","6-0.5 / 220",3,88,NA
@@ -331,15 +331,15 @@
 "Sac State","Koby Shabazz","WR","Grant Union","Sacramento","CA","5-7 / 150",3,83,"Sacramento State"
 "Sac State","Antonio Spann","WR","St. Bonaventure","Ventura","CA","5-10 / 165",3,82,NA
 "Sac State","Chase Bonta","WR","Chaparral","Temecula","CA","5-8.5 / 160",3,80,NA
+"Sac State","Isaac Pierce","WR","Oak Ridge","El Dorado Hills","CA","5-9 / 170",NA,NA,NA
 "Sac State","Zion Secrease","WR","Sacred Heart Cathedral Prep","San Francisco","CA","5-9 / 170",NA,NA,NA
 "Sac State","La'Savion Carr","WR","Valley Christian","San Jose","CA","6-0 / 150",NA,NA,NA
-"Sac State","Gavin Lorge","WR","Corona Centennial","Corona","CA","6-2 / 190",NA,NA,NA
+"Sac State","Blake Rogers","WR","La Habra","La Habra","CA","5-10 / 160",NA,NA,NA
 "Sac State","Devin Sandville","WR","Orange Vista","Perris","CA","6-3 / 185",NA,NA,NA
 "Sac State","Korbin Thomas","WR","Newbury Park","Newbury Park","CA","6-1 / 190",NA,NA,NA
 "Sac State","Courtney Thompson","WR","San Diego Lincoln","San Diego","CA","5-11 / 170",NA,NA,NA
-"Sac State","Isaac Pierce","WR","Oak Ridge","El Dorado Hills","CA","5-9 / 170",NA,NA,NA
 "Sac State","Stephen Ouvaroff","WR","Salesian","Los Angeles","CA","6-2 / 180",NA,NA,NA
-"Sac State","Blake Rogers","WR","La Habra","La Habra","CA","5-10 / 160",NA,NA,NA
+"Sac State","Gavin Lorge","WR","Corona Centennial","Corona","CA","6-2 / 190",NA,NA,NA
 "Sac State","Ayden Payne","WR","Western","Anaheim","CA","6-3 / 175",NA,NA,NA
 "Sac State","David Gray","WR","Lincoln","Stockton","CA","6-2 / 175",NA,NA,NA
 "Sac State","Tomas Dixon","WR","San Joaquin Memorial","Fresno","CA","5-11 / 165",NA,NA,NA
@@ -431,7 +431,7 @@
 "Sac State","Dahriyon Vaughn","ATH","Baldwin Park","Baldwin Park","CA","6-1 / 185",3,86,"Sacramento State"
 "Sac State","Dorian Franklin","ATH","St. John Bosco","Bellflower","CA","5-10 / 170",3,86,NA
 "Sac State","Jaiden Flores","ATH","The King's Academy","Sunnyvale","CA","6-4 / 215",3,86,NA
-"Sac State","EJ Coleman","ATH","Folsom","Folsom","CA","6-0 / 195",3,86,NA
+"Sac State","EJ Coleman","ATH","Folsom","Folsom","CA","6-0 / 195",3,86,"Washington State"
 "Sac State","Jaxson Rex","ATH","San Clemente","San Clemente","CA","6-1 / 190",3,85,NA
 "Sac State","Lamont McDonald","ATH","Hayward","Hayward","CA","6-0 / 160",3,84,NA
 "Sac State","Xavior Jones","ATH","Central East","Fresno","CA","5-10 / 160",3,84,NA
@@ -444,8 +444,8 @@
 "Sac State","Aidan Dagher","ATH","Burbank","Burbank","CA","6-1.5 / 200",3,81,NA
 "Sac State","Kanan Khansarinia","ATH","Bishop Amat","La Puente","CA","5-11 / 170",3,80,NA
 "Sac State","Kyle Westbrook","ATH","Redondo Union","Redondo Beach","CA","5-10 / 165",3,80,NA
-"Sac State","Grant Maina","ATH","Monte Vista","Danville","CA","5-11 / 170",NA,NA,NA
 "Sac State","Adrian Barnett","ATH","The King's Academy","Sunnyvale","CA","6-4 / 195",NA,NA,NA
+"Sac State","Grant Maina","ATH","Monte Vista","Danville","CA","5-11 / 170",NA,NA,NA
 "Sac State","Kiran-Davu Tate-Day","ATH","Sacred Heart Cathedral Prep","San Francisco","CA","6-0 / 160",NA,NA,NA
 "Sac State","Kingston Sablan","ATH","Christian Brothers","Sacramento","CA","5-11 / 180",NA,NA,NA
 "Sac State","Dean Gibson","ATH","Corona Centennial","Corona","CA","5-9 / 170",NA,NA,NA
@@ -454,8 +454,8 @@
 "Sac State","Xavier Jones","ATH","Central East","Fresno","CA","5-10 / 160",NA,NA,NA
 "Sac State","Ananias Walker","ATH","Diablo Valley College","Pleasant Hill","CA","6-1 / 180",NA,NA,NA
 "Sac State","Daniel Eagleton","ATH","Folsom","Folsom","CA","6-3 / 175",NA,NA,NA
-"Sac State","Deandre Kirkpatrick","ATH","Crenshaw","Los Angeles","CA","6-3 / 220",NA,NA,NA
 "Sac State","Trace Murchison","ATH","Woodcreek","Roseville","CA","6-0 / 160",NA,NA,NA
+"Sac State","Deandre Kirkpatrick","ATH","Crenshaw","Los Angeles","CA","6-3 / 220",NA,NA,NA
 "Stanford","Chance Thomas","QB","Western","Anaheim","CA","6-1 / 195",3,88,"Kansas"
 "Stanford","Dane Weber","QB","Chaparral","Temecula","CA","6-0.5 / 220",3,88,NA
 "Stanford","Jaxsen Stokes","RB","Sierra Canyon","Chatsworth","CA","5-9 / 190",3,88,"California"
@@ -463,6 +463,7 @@
 "Stanford","Rahzario Edwards","TE","Grant Union","Sacramento","CA","6-6 / 210",4,90,NA
 "Stanford","Jace Cannon","TE","Junipero Serra","San Mateo","CA","6-5 / 200",3,88,"USC"
 "Stanford","Clint Lundin","OT","De La Salle","Concord","CA","6-6 / 295",3,85,"Stanford"
+"Stanford","Jackson Hill","OT","Chaminade","West Hills","CA","6-5 / 280",3,84,"Notre Dame"
 "Stanford","George Tyus","OT","Antioch","Antioch","CA","6-6 / 280",NA,NA,NA
 "Stanford","Lincoln Mageo","IOL","Oceanside","Oceanside","CA","6-4 / 280",3,88,NA
 "Stanford","Troy Bowens","Edge","Sutter","Sutter","CA","6-4 / 250",4,90,"California"
